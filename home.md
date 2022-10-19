@@ -8,4 +8,4 @@ I hope you enjoy reading about my internship!
 ## Sprints
 
 * [Sprint 0](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-0)
-* 
+* [Sprint 1](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-1)
