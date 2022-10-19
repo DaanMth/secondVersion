@@ -8,6 +8,6 @@ This sprint I gave myself time to make a prototype, I used WebStorm to make a Re
 Then I wanted to add the functionality that you could drag the components inside the board, and that it would make a new list and it would showcase on the board. After some trial and error with various drag and drop libraries I had managed to make a drag and drop functionality. 
 ![image](uploads/70caf0b12bebd468d09f9714519e0e8d/image.png)
 
-Now that I had this functionality I wanted to see if I could make this connect with the back-end in any kind of way. My first idea was to give each component a number and to make a sort of calculation between the components with a procedure in the backend, you can read this back in ___. I made this work as well as you can see down below.
+Now that I had this functionality I wanted to see if I could make this connect with the back-end in any kind of way. My first idea was to give each component a number and to make a sort of calculation between the components with a procedure in the backend. I made this work as well as you can see down below. This proved that I could make the backend and the front-end connect and that a flow tool would be possible as well. So I went back to the research document; "Is it possible to make a flow tool on top of ThingsDB" that I made in the second sprint and I added these experiences to the document so that I could further clarify why a flow tool would be possible
 ![image](uploads/d3d35e41832ed0514f2170c9e6307985/image.png) 
 ## Returning arrows
