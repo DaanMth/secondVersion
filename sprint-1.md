@@ -12,4 +12,4 @@ After I got the hang of ThingsDB itself I wanted to find out if it is even possi
 
 ## Duty calls me
 
-## An introduction of yours truely
+## An introduction of yours truly
