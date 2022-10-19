@@ -15,3 +15,8 @@ In a reseach I have done in sprint 0 I had stated together with my stakeholders 
 
 ## An introduction of yours truly
 At this point in time my stakeholder Rik really wanted to introduce me on their LinkedIn, he wanted to let people know that I joined their family as an intern and he wanted to share the designs that I had made already. So I started writing down my [introduction](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/introduction) and a few days later it was posted to the LinkedIn of Rik. You can find the text right [here](https://www.linkedin.com/pulse/introducing-daan-matheeuwsen-cesbit/?trackingId=%2Bpgdj3bTAnyqLzTVWhEW6Q%3D%3D)
+
+## Figma designing
+When I finished all of these assignments I had set up I started working on my figma design again, as it wasn´t really finished and with the knowledge I had made up this sprint I knew that there would probably be a few mistakes considering the laws of UX design. So I started redesigning and adding new functionalities to my figma design. I added a new page where you could see all the flows with given information on it. And I also redesigned the flow tool by adding beginning, middle and end components. Again these designs are interactive and you can play with them as almost everything is clickable. 
+![image](uploads/07c562a146d38e483504cbfb0c222cb8/image.png)
+![image](uploads/9af6d71a1a62cff77c8fde044ffcc4d8/image.png)
