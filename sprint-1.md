@@ -18,5 +18,5 @@ At this point in time my stakeholder Rik really wanted to introduce me on their 
 
 ## Figma designing
 When I finished all of these assignments I had set up I started working on my figma design again, as it wasn´t really finished and with the knowledge I had made up this sprint I knew that there would probably be a few mistakes considering the laws of UX design. So I started redesigning and adding new functionalities to my figma design. I added a new page where you could see all the flows with given information on it. And I also redesigned the flow tool by adding beginning, middle and end components. Again these designs are interactive and you can play with them as almost everything is clickable. 
-![image](uploads/07c562a146d38e483504cbfb0c222cb8/image.png)
-![image](uploads/9af6d71a1a62cff77c8fde044ffcc4d8/image.png)
+<img src="uploads/07c562a146d38e483504cbfb0c222cb8/image.png"  width="400" height="auto">
+<img src="uploads/9af6d71a1a62cff77c8fde044ffcc4d8/image.png"  width="400" height="auto">
