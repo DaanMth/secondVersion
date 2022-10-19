@@ -19,5 +19,6 @@ After that I wanted to research the 'rivals' and what their pro's and cons were.
 ## Design time
 
 At last I wanted to make some designs of how I wanted the flow tool to look, so I needed something where I could design in. My stakeholders at the company recommended me 'Figma' as they use it as well and they found it very convenient to make designs, so I started learning how Figma worked by following along tutorial of other people and by making little projects myself. When I started to get a hang of it I began with prototyping a Design for ThingsFlow. As the company had made a GUI for the back-end already I took their color pallet and started the begin of my design by taking inspiration from other flow tools. 
+![image](uploads/f7f5086b06454a08be35a4b58271fe28/image.png)
 
 ## Retrospective
