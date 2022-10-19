@@ -22,6 +22,9 @@ At last I wanted to make some designs of how I wanted the flow tool to look, so 
 ![image](uploads/f7f5086b06454a08be35a4b58271fe28/image.png)
 ![image](uploads/e048c7c9b86d5e3e3ce06a82fea5bc6e/image.png)
 ![image](uploads/0818e8600cd74b9cbc360d33689d78db/image.png)
+<img src="uploads/0818e8600cd74b9cbc360d33689d78db/image.png"  width="120" height="120">
+<img src="uploads/f7f5086b06454a08be35a4b58271fe28/image.png"  width="120" height="120">
+<img src="uploads/e048c7c9b86d5e3e3ce06a82fea5bc6e/image.png"  width="120" height="120">
 
 You can test the first prototype I have made right [here](https://www.figma.com/proto/X1ugwhMIqFoLcablj3Rcme/ThingsFlow_V1?node-id=32%3A606&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A46&show-proto-sidebar=1).
 
