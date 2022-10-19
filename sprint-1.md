@@ -9,7 +9,7 @@ Because I didn't really have an understanding of the back-end yet I wanted to ma
 
 ## Is it possible?
 After I got the hang of ThingsDB itself I wanted to find out if it is even possible to make a flow tool on top of ThingsDB, this was a very important question to ask and solve because if this came out as negative I would have to switch up my whole project and make a different one. Because my stakeholder was so positive it was possible it gave me a confidence boost that it would be, and so it didn't stress me out a lot that there was a possibility it wouldn't work. In the [research document](uploads/fbf1a80ca6cce6a318288d58c962dd0c/Is_it_possible_to_make_a_Flow_tool_by_using_ThingsDB.pdf) I did several researches based on various of methods so I could reassure that it is indeed possible to make a flow tool on top of ThingsDB. 
-I also made a prototype in the sprint after this one, which I added to this document as well. You can read about the prototyping [here](url)
+I also made a prototype in the sprint after this one, which I added to this document as well. You can read about the prototyping [here](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-2#baby-steps-of-the-flow-tool)
 
 ## Duty calls me
 In a reseach I have done in sprint 0 I had stated together with my stakeholders that for the errors they would like to have DutyCalls as a way of handling this. I can hear you thinking; "What is ThingsDB?". For that reason I have made a [document](uploads/b92805cce1657fd51b43abbec45abcc0/DutyCalls.pdf) that describes DutyCalls and what its involvement is in my project. 
