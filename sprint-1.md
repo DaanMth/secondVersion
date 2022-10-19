@@ -9,3 +9,7 @@ Because I didn't really have an understanding of the back-end yet I wanted to ma
 
 ## Is it possible?
 After I got the hang of ThingsDB itself I wanted to find out if it is even possible to make a flow tool on top of ThingsDB, this was a very important question to ask and solve because if this came out as negative I would have to switch up my whole project and make a different one. Because my stakeholder was so positive it was possible it gave me a confidence boost that it would be, and so it didn't stress me out a lot that there was a possibility it wouldn't work. In the [research document](uploads/fbf1a80ca6cce6a318288d58c962dd0c/Is_it_possible_to_make_a_Flow_tool_by_using_ThingsDB.pdf) I did several researches based on various of methods so I could reassure that it is indeed possible to make a flow tool on top of ThingsDB. 
+
+## Duty calls me
+
+## An introduction of yours truely
