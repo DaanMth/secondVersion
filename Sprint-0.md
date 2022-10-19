@@ -27,4 +27,4 @@ At last I wanted to make some designs of how I wanted the flow tool to look, so 
 
 ## Retrospective
 When looking back at this sprint I had finished more than I had expected I'd finish, I was very happy with what I have made this sprint as I was pretty stressed I didn't know where to start and I'd end up not finishing anything. Luckily I got some really good help from my stakeholders giving me a starting point with the Q&A I did. I set my mind right and really did my best making something that I could be proud of. <br>
-When asking the stakeholders they were very happy with the researches and prototypes that I had delivered. There wasn't really something yet that could be done differently as there hasn't gone much time over the project, and everything went pretty good.
+When asking the stakeholders they were very happy with the researches and prototypes that I had delivered. There wasn't really something yet that could be done differently as there hasn't gone much time over the project, and everything went pretty good. So for the feedforward we had concluded to keep it up, and to follow the work ethic that I had deliverd this sprint. 
