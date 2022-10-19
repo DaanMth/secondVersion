@@ -1,0 +1,5 @@
+## way of going
+Every sprint we started with a conversation with my stakeholders, this involved a retrospective to see what we have done in the sprint we had already had with feedback involved. Then we looked at the upcoming sprint and what we have planned to to for this sprint, with feedforward. This gave a very structured way of working and helped me growing in this internship, as the feedback and looking back with my stakeholders every sprint on what I could've done differently or what I should continue doing really gave me a clear perspective on how I should work in this internship.
+
+## structure of the portfolio
+For this portfolio I've written down what I've done every sprint in a kind of logging kind of way, I found this the easiest way to note down what I've done. After the things I've done I will write down the retrospective, to see what I've learned from this sprint and what I want to do differently for the next sprint. 
