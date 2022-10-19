@@ -4,7 +4,7 @@ When first making the design in Figma I made it based on comparing to other flow
 <br>Both these documents really gave me a better understanding on UX designing and really helped me this internship making and designing with a purpose. I really think the user experience got better with these documents and this will definitely help me in the future as well
 
 ## Researching the platform
-Because I didn't really have an understanding of the back-end yet I wanted to make a [research document](uploads/bcceeb817e923ca09873eb76fe138cf9/Research_ThingsDB.pdf) on this as well, where I'd figure out how to work with ThingsDB and along the way write down the stuff that I encounter, this really helped me get to know the platform better and while writing down how to set it up it alsof gave me an reminder on how to do so if I would forget how to. 
+Because I didn't really have an understanding of the back-end yet I wanted to make a [research document](uploads/bcceeb817e923ca09873eb76fe138cf9/Research_ThingsDB.pdf) on this as well, where I'd figure out how to work with ThingsDB and along the way write down the stuff that I encounter, this really helped me get to know the platform better and while writing down how to set it up it alsof gave me a reminder on how to do so if I would forget how to. In this document I have written down all the specific things that is provided in ThingsDB and I also tested specific functionalities to see if I got the hang of it. 
 
 
 ## Is it possible?
