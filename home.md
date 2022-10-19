@@ -7,5 +7,5 @@ I hope you enjoy reading about my internship!
 
 ## Sprints
 
-* 
+* [sprint 0](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-0)
 * 
