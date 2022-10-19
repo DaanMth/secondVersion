@@ -22,3 +22,7 @@ When I finished all of these assignments I had set up I started working on my fi
 <img src="uploads/9af6d71a1a62cff77c8fde044ffcc4d8/image.png"  width="500" height="auto">
 
 ## Retrospective
+| header | header |
+| ------ | ------ |
+| cell | cell |
+| cell | cell |
