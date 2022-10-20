@@ -10,3 +10,4 @@ To make the calculation work you need to drag the question mark component in fir
 <br>
 <img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto">
 <img src="uploads/f4b21ef53778d53bdeb7655e8d7361a4/image.png"  width="300" height="auto">
+![ezgif.com-gif-maker__3_](uploads/47ff8711f68f3c11065bf91d42850b6d/ezgif.com-gif-maker__3_.gif)
