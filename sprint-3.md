@@ -14,9 +14,9 @@ The rest of the components can be dragged in after the first component just the 
 ![ezgif.com-gif-maker__4_](uploads/b91173e6cd7bef2c9a0319ec0e67a06c/ezgif.com-gif-maker__4_.gif)
 <br>
 This is because you haven't connected the components with eachother, because the system doesn't know which components need to talk to which you need to connect them with the arrows. I made the function that you can simply connect them by pressing the right part that goes dark when you hover over it, when pressing both the components you want to connect an arrow appears between them. As you can see in the example down below only the first two will be calculated, the 12 * 8 which is 96.
-![ezgif.com-gif-maker__5_](uploads/0c6b75320d5f86569af6f83fa0fbb1bd/ezgif.com-gif-maker__5_.gif)!
+![ezgif.com-gif-maker__5_](uploads/0c6b75320d5f86569af6f83fa0fbb1bd/ezgif.com-gif-maker__5_.gif)
 <br>
 You can see when you start connecting them one by one that the system includes the component that has been added to the calculation. As shown down below;
-[ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
+![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
 
 <img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto">
