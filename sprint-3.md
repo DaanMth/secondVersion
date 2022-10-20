@@ -19,3 +19,7 @@ This is because you haven't connected the components with eachother, because the
 You can see when you start connecting them one by one that the system includes the component that has been added to the calculation. As shown down below;
 <br>
 ![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
+
+## retrospective
+When looking back at this sprint the stakeholders and I came to the conclusion that I shouldn't keep on tinkering about a problem for the time that I did in this sprint. This took a lot of time and when asking feedback my problem was solved in less than half of a workday, this could've saved me a lot of time. Furthermore the stakeholders thought I found a really good way to showcase the working of a floow with a calculator and found it very clever that I thought of this. <br>
+For the next sprint I need to keep in mind to not linger on the same problem for too long and I need to ask feedback or help earlier on, as this will probably save me a lot of time in the future.
