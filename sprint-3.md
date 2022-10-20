@@ -9,5 +9,10 @@ Then I needed to figure out a way to let the components that you drag in talk to
 To make the calculation work you need to drag the question mark component in first, this is the component where you fill in the first value that you will be working with. When pressing on the component you get a modal, this modal gives information about the components and you also get a form where you can fill in a value. when pressing save the component also shows the saved component.
 <br>
 ![ezgif.com-gif-maker__3_](uploads/47ff8711f68f3c11065bf91d42850b6d/ezgif.com-gif-maker__3_.gif)
+<br>
+The rest of the components can be dragged in after the first component just the way you like it, you can fill in the rest of the values the way you want to. This way you can literally calculate simple equations by dragging the components inside them. But when pressing the math button you notice that no answer will be shown, why is this?
+
+![ezgif.com-gif-maker__4_](uploads/b91173e6cd7bef2c9a0319ec0e67a06c/ezgif.com-gif-maker__4_.gif)
+![ezgif.com-gif-maker__5_](uploads/0c6b75320d5f86569af6f83fa0fbb1bd/ezgif.com-gif-maker__5_.gif)![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
 
 <img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto">
