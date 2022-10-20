@@ -8,4 +8,4 @@ Then I needed to figure out a way to let the components that you drag in talk to
 ### How does it work
 To make the calculation work you need to drag the question mark component in first, this is the component where you fill in the first value that you will be working with.
 <br>
-<img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto">
+<img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto" margin-left="50%">
