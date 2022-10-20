@@ -10,3 +10,4 @@ I hope you enjoy reading about my internship!
 * [Sprint 0](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-0)
 * [Sprint 1](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-1)
 * [Sprint 2](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-2)
+* [Sprint 3](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-3)
