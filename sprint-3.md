@@ -11,8 +11,9 @@ To make the calculation work you need to drag the question mark component in fir
 ![ezgif.com-gif-maker__3_](uploads/47ff8711f68f3c11065bf91d42850b6d/ezgif.com-gif-maker__3_.gif)
 <br>
 The rest of the components can be dragged in after the first component just the way you like it, you can fill in the rest of the values the way you want to. This way you can literally calculate simple equations by dragging the components inside them. But when pressing the math button you notice that no answer will be shown, why is this?
-
 ![ezgif.com-gif-maker__4_](uploads/b91173e6cd7bef2c9a0319ec0e67a06c/ezgif.com-gif-maker__4_.gif)
+<br>
+This is because you haven't connected the components with eachother, because the system doesn't know which components need to talk to which you need to connect them with the arrows. I made the function that you can simply connect them by pressing the right part that goes dark when you hover over it, when pressing both the components you want to connect an arrow appears between them.
 ![ezgif.com-gif-maker__5_](uploads/0c6b75320d5f86569af6f83fa0fbb1bd/ezgif.com-gif-maker__5_.gif)![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
 
 <img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto">
