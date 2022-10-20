@@ -19,5 +19,3 @@ This is because you haven't connected the components with eachother, because the
 You can see when you start connecting them one by one that the system includes the component that has been added to the calculation. As shown down below;
 <br>
 ![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
-
-<img src="uploads/65c365420cef702748a7d21137f055c3/image.png"  width="400" height="auto">
