@@ -1,1 +1,3 @@
 ## Continuing the good prototyping spirit
+Because the prototyping part was going pretty well I wanted to continue working on this. I wanted to showcase that you could make a working flow, in which the components talk with eachother and actually send their data to eachother and manipulate it the way it says it should. I thought the easiest way to make this was to make a calculator, with each component having its own characteristic such as subtract, divide, multiply and sum. So I removed all the components from the sidebar that I already had and made a list of objects in the backend that could be used to for this idea I had in mind. 
+![image](uploads/587669c9d0cb45b8c3d8080b975fd728/image.png)
