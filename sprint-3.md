@@ -20,6 +20,9 @@ You can see when you start connecting them one by one that the system includes t
 <br>
 ![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
 
+## Taking a step back
+With all this prototyping I decided that it was time to set a pause to it and take a little step back, as I was going through the prototyping I had made an idea myself on how things should work and how things should look. That´s when I decided that I should take a look at other applicationis and see how these were made so I can take inspiration off of it and maybe it could change my way of thinking. So I started looking at different applications that also worked with automatization and how they set up their page and I wrote down how it worked and how it looked, this reset my mind a bit and stopped me from thinking in one certain way to reacht my goal. 
+
 ## retrospective
 When looking back at this sprint the stakeholders and I came to the conclusion that I shouldn't keep on tinkering about a problem for the time that I did in this sprint. This took a lot of time and when asking feedback my problem was solved in less than half of a workday, this could've saved me a lot of time. I really thought that I could solve this error myself as I thought that I was very close so I didn't really think about asking for feedback but sometimes it is better to get a fresh interpretation from someone else. Furthermore the stakeholders thought I found a really good way to showcase the working of a floow with a calculator and found it very clever that I thought of this. <br>
 For the next sprint I need to keep in mind to not linger on the same problem for too long and I need to ask feedback or help earlier on, as this will probably save me a lot of time in the future.
