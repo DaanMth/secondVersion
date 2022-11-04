@@ -6,3 +6,6 @@ When I was done creating this functionality I sat down with my stakeholder Jeroe
 
 ## Reusable flows
 When the designing process was done I started with the prototype, before I started making this prototype i started sketching how it should work so I'd get a better view on how it should work functional wise. Pretty fast I got the hang of it and I didn't need to sketch any further as I got the confidence I could make it as a prototype; ![IMG_0836](uploads/8ac2fdbd8e2a327ccca7692397b3798b/IMG_0836.jpg)
+
+Then I started working on saving a flow, I had to think about what should be saved inside the flow so the correct information could be used in the backend. All of the information that had been filled in should be saved when making a component so you don't have to do that tidy work so this was kind of a challenge. But as you can see I made the function so you can save a flow as a component; 
+![6dda34c68dc2bffaf7085a52d8473808](uploads/f463623840eb116e32d39b345ae35abf/6dda34c68dc2bffaf7085a52d8473808.gif)![cad393dbaaa4fd3984beaa7c49edf567](uploads/95d9e17decf9bce534826e3086f5feb2/cad393dbaaa4fd3984beaa7c49edf567.gif)
