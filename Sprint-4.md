@@ -12,4 +12,6 @@ Then I started working on saving a flow, I had to think about what should be sav
 
 -------
 
+After that I started making the functionality so that it actually works, first I thought there wouldn't be any problems because it'll just go through the component with the given functionalities but it didn't work like that, so I had to write a different function for this component that goes through all the functionalities that it contains. With some hard work and trial and error I'd managed to fix it and make it work as follows;
+
 ![c44ee981c46dd4e501be2a8006fbddad](uploads/3ce9b55367f992ef0355c7c3b2966114/c44ee981c46dd4e501be2a8006fbddad.gif)![051355c2bd00e2287fa692f0484bcc9a](uploads/b8f2a04b841c5939fc8c4d23d51efd49/051355c2bd00e2287fa692f0484bcc9a.gif)
