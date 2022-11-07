@@ -3,7 +3,7 @@ Because the prototyping part was going pretty well I wanted to continue working 
 First of all I fixed the design a little bit with the feedback I got, I made the header and I fixed the look of the components that are visible on the board.<br> Then I wanted to showcase that you could make a working flow, in which the components talk with eachother and actually send their data to eachother and manipulate it the way it says it should. I wanted to do this because I wanted to know myself how this could work as I had no idea yet how I wanted to do this part. So I started sketching ways it could be possible on a notepad. 
 
 -------------------
-<img src="uploads/fbc71b5128a2c84321faed9c134f1595/IMG_0840.jpg" width="300" height="auto">
+<img src="uploads/fbc71b5128a2c84321faed9c134f1595/IMG_0840.jpg" width="600" height="auto">
 ![IMG_0840](uploads/fbc71b5128a2c84321faed9c134f1595/IMG_0840.jpg)
 
 ![IMG_0841](uploads/18f6721ad939e8a74ad8766e52b30c97/IMG_0841.jpg)
