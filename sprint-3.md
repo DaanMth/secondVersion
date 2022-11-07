@@ -4,7 +4,9 @@ First of all I fixed the design a little bit with the feedback I got, I made the
 
 -------------------
 ![IMG_0840](uploads/fbc71b5128a2c84321faed9c134f1595/IMG_0840.jpg)
+
 ![IMG_0841](uploads/18f6721ad939e8a74ad8766e52b30c97/IMG_0841.jpg)
+
 ![IMG_0842](uploads/3c0283e59675d057a8921db43aa20c08/IMG_0842.jpg)
 --------------------
 
