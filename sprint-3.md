@@ -8,6 +8,7 @@ First of all I fixed the design a little bit with the feedback I got, I made the
 <img src="uploads/18f6721ad939e8a74ad8766e52b30c97/IMG_0841.jpg" width="600" height="auto">
 
 <img src="uploads/3c0283e59675d057a8921db43aa20c08/IMG_0842.jpg" width="600" height="auto">
+
 --------------------
 
 After I did some tinkering and sketching I thought the easiest way to make this was to make a calculator, with each component having its own characteristic such as subtract, divide, multiply and sum. So I removed all the components from the sidebar that I already had and made a list of objects in the backend that could be used to for this idea I had in mind. This wasn't that easy of a task but because I had already done some sketching and brainstorming before this really helped me with the set-up of the back-end and front-end
