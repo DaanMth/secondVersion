@@ -28,3 +28,7 @@ After that I started making the functionality so that it actually works, first I
 ![c44ee981c46dd4e501be2a8006fbddad](uploads/3ce9b55367f992ef0355c7c3b2966114/c44ee981c46dd4e501be2a8006fbddad.gif)![051355c2bd00e2287fa692f0484bcc9a](uploads/b8f2a04b841c5939fc8c4d23d51efd49/051355c2bd00e2287fa692f0484bcc9a.gif)
 
 -------
+
+## Retrospective
+When sitting down with my stakeholders of the company we first reviewed what I had made, I did this by sharing my screen on a big TV and going through the steps that I had made. The first reaction was very positive, they were very surprised by the way I made the functionality to reuse flows the way I did it and found it very smart. They thought that I had come pretty far and they were happy with what I had made. 
+For the feedforward they had a few functionalities in mind that they still wanted to see how it would work, the error handling and the configuration was a very important functionality in their mind and they would want to see in the next sprint how I would create this. They also wanted me to make a final design in Figma later on and asked if I had this in mind as well. One stakeholder also mentioned that the design of the prototype that I made wasn´t really the same as the one in Figma, with the additional question if this was on purpose or if this was intentionally done. 
