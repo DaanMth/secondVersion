@@ -1,5 +1,7 @@
-## The laws
+## Goal this sprint
+For this sprint I had a specific goal in mind, I wanted to make designs of the flow tool that I would be making as I thought this would be very convenient before making a functional prototype already. Before making the designs I had to do some research on UX designing and ThingsDB itself, so this was the main goal that I had in mind this sprint. 
 
+## The laws
 When first making the design in Figma I made it based on comparing to other flow tools and bij using the color palet from the ThingsDB GUI of the backend. But I wanted to research if there were any psychological reasonings behind certain ways of making a project. That's why I made a research document on [the laws of UX](uploads/b641b0df00c96b4e92715680b5628d7e/The_laws_of_UX.pdf), this gave me a much better insight on designing with underlying meaning and the best practice way to make certain designs. I also made another document because I found more about [best practices in UX designing](uploads/88eb7f34f8cb1ac93ee7b99ab7cb0794/UXBestPractice.pdf), so I wanted to document this as well. 
 <br>Both these documents really gave me a better understanding on UX designing and really helped me this internship making and designing with a purpose. I really think the user experience got better with these documents and this will definitely help me in the future as well
 
