@@ -41,7 +41,6 @@ You can see when you start connecting them one by one that the system includes t
 -------------
 <br>
 ![ezgif.com-gif-maker__6_](uploads/4549b7191dfd5328dbedbb11afbef996/ezgif.com-gif-maker__6_.gif)
--------------
 
 ## Taking a step back
 With all this prototyping I decided that it was time to set a pause to it and take a little step back, as I was going through the prototyping I had made an idea myself on how things should work and how things should look. That´s when I decided that I should take a look at [other applications](uploads/f413ef0552cb01bc523d6c35b1d0e4ae/Taking_a_step_back.docx) and see how these were made so I can take inspiration off of it and maybe it could change my way of thinking. Momentarily we only had one way in mind to set it up but we thought it would be much better to find out more ways it could be done so we don´t work ourselves in a big hole when it ends up not looking/working the way we wanted it to. So I started looking at different applications that also worked with automatization and how they set up their page and I wrote down how it worked and how it looked, this really helped and reset my mind a bit and stopped me from thinking in one certain way to reach my goal. 
