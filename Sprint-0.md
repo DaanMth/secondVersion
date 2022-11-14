@@ -10,7 +10,7 @@ I also started making a [research document](uploads/5b4dc45be38e584e31897731814b
 
 ## Project plan
 
-Then I started with my [project plan](uploads/73b496acd3f468691ddc125976de4f1e/Projectplan_Daan_Matheeuwsen_V2.pdf), after I had done a few assignments I had made for myself and having a Q&A with my stakeholders I had a good idea on what I had to make for my project at the company, so I spent some of this sprints time making the project plan and having conversations with my stakeholders at the company and the tutor supervisor to see the project was also alligned with what the project owners and the school expected from me, after a lot of feedback I had finished this and I could go on with the next part of the project.
+Then I started with my [project plan](uploads/73b496acd3f468691ddc125976de4f1e/Projectplan_Daan_Matheeuwsen_V2.pdf), after I had done a few assignments I had made for myself and having a Q&A with my stakeholders I had a good idea on what I had to make for my project at the company, so I spent some of this sprints´ time making the project plan and having conversations with my stakeholders at the company and the tutor supervisor to see the project was also alligned with what the project owners and the school expected from me, after a lot of feedback I had finished this and I could go on with the next part of the project.
 
 ## Rivalry
 
