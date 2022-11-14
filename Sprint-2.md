@@ -27,6 +27,7 @@ I also wanted the option of moving the components in the board, I thought that t
 ![ezgif.com-gif-maker__2_](uploads/f07457fbf7522faa33e1c89d9a15a40c/ezgif.com-gif-maker__2_.gif)
 
 -------------
+
 After this functionality I really wanted to put arrows between two components when clicking on them both, this wasn't as easy to do as I thought so this took me quite some time. After using a library called LeaderLine that didn't work the way I wanted to I came across a library called xarrows. This gave me the functionality that I wanted and now I could connect the two blocks together.
 -------------
 ![image](uploads/fbe1ec6b6d1c4e19f91e4483c936ee3b/image.png)
