@@ -14,7 +14,7 @@ Then I started with my [project plan](uploads/73b496acd3f468691ddc125976de4f1e/P
 
 ## Rivalry
 
-After that I wanted to research the 'rivals' and what their pro's and cons were. One of the biggest flow tools application is Dovetail, so I made a [research document](uploads/ca4738ea9d65640fcd042b8e875d8b1e/Research_Document_Dovetail_ENG.pdf) for this studying their ways and trying to figure out where their disadvantages layed.
+After that I wanted to research the 'rivals' and what their pro's and cons were. I made this choice because I thought it would be very smart for me to look at other applications first before starting as this could give me some inspiration and more insight. One of the biggest flow tools application is Dovetail, so I made a [research document](uploads/ca4738ea9d65640fcd042b8e875d8b1e/Research_Document_Dovetail_ENG.pdf) for this studying their ways and trying to figure out where their disadvantages layed.
 
 ## Design time
 
