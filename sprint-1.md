@@ -6,7 +6,7 @@ When first making the design in Figma I made it based on comparing to other flow
 <br>Both these documents really gave me a better understanding on UX designing and really helped me this internship making and designing with a purpose. I really think the user experience got better with these documents and this will definitely help me in the future as well
 
 ## Researching the platform
-Because I didn't really have an understanding of the back-end yet I wanted to make a [research document](uploads/bcceeb817e923ca09873eb76fe138cf9/Research_ThingsDB.pdf) on this as well, where I'd figure out how to work with ThingsDB and along the way write down the stuff that I encounter, this really helped me get to know the platform better and while writing down how to set it up it alsof gave me a reminder on how to do so if I would forget how to. In this document I have written down all the specific things that is provided in ThingsDB and I also tested specific functionalities to see if I got the hang of it. 
+Because I didn't really have an understanding of the back-end yet I wanted to make a [research document](uploads/bcceeb817e923ca09873eb76fe138cf9/Research_ThingsDB.pdf) on this as well, where I'd figure out how to work with ThingsDB and along the way write down the stuff that I encounter, this really helped me get to know the platform better and while writing down how to set it up it also gave me a reminder on how to do so if I would forget how to. In this document I have written down all the specific things that is provided in ThingsDB and I also tested specific functionalities to see if I got the hang of it. 
 
 
 ## Is it possible?
@@ -14,7 +14,7 @@ After I got the hang of ThingsDB itself I wanted to find out if it is even possi
 I also made a prototype in the sprint after this one, which I added to this document as well. You can read about the prototyping [here](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-2#baby-steps-of-the-flow-tool)
 
 ## Duty calls me
-In a reseach I have done in sprint 0 I had stated together with my stakeholders that for the errors they would like to have DutyCalls as a way of handling this. I can hear you thinking; "What is ThingsDB?". For that reason I have made a [document](uploads/b92805cce1657fd51b43abbec45abcc0/DutyCalls.pdf) that describes DutyCalls and what its involvement is in my project. 
+In a reseach I have done in sprint 0 I had stated together with my stakeholders that for the errors they would like to have DutyCalls as a way of handling this. I can hear you thinking; "What is DutyCalls?". For that reason I have made a [document](uploads/b92805cce1657fd51b43abbec45abcc0/DutyCalls.pdf) that describes DutyCalls and what its involvement is in my project. 
 
 ## An introduction of yours truly
 At this point in time my stakeholder Rik really wanted to introduce me on their LinkedIn, he wanted to let people know that I joined their family as an intern and he wanted to share the designs that I had made already. So I started writing down my [introduction](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/introduction) and a few days later it was posted to the LinkedIn of Rik. You can find the text right [here](https://www.linkedin.com/pulse/introducing-daan-matheeuwsen-cesbit/?trackingId=%2Bpgdj3bTAnyqLzTVWhEW6Q%3D%3D)
