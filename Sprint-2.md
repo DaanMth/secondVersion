@@ -4,7 +4,7 @@ For this sprint I had in mind that I wouldn't be writing a lot of documents, as 
 ## Baby steps of the Flow Tool
 This sprint I gave myself time to make a prototype, I used WebStorm to make a React front-end. In which I started designing my flow tool based on the Figma designs that I've made, this was very useful as I already knew where things were supposed to be so this made me work a lot more goal oriented. When I was done with my design I first asked feedback from my stakeholder. They were very pleased with how everything looked. But they were kind of debating if they wanted to have the sidebar underneath the board ( as you can see on the second picture ), as you would probably need a lot of room for the flow. But as I did some research on UX design I could say that this wasn't really the best way of a flow tool to look and they agreed to go further with the sidebar as it is. 
 ![image](uploads/4837e45ab1dac01e95221c2eb2bed7c4/image.png)
-![afbeelding](uploads/98959199ee1b3d151c4ea84cac16ddca/afbeelding.png)
+![sidebarDown](uploads/ab8d651134f2addf557f628b2dffe4b1/sidebarDown.png)
 
 Then I wanted to add the functionality that you could drag the components inside the board, and that it would make a new list and it would showcase on the board. After some trial and error with various drag and drop libraries I had managed to make a drag and drop functionality. 
 ![image](uploads/70caf0b12bebd468d09f9714519e0e8d/image.png)
