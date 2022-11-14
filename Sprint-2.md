@@ -15,15 +15,25 @@ Then I wanted to add the functionality that you could drag the components inside
 -------------
 
 Now that I had this functionality I wanted to see if I could make this connect with the back-end in any kind of way. My first idea was to give each component a number and to make a sort of calculation between the components with a procedure in the backend. I made this work as well as you can see down below. This proved that I could make the backend and the front-end connect and that a flow tool would be possible as well. So I went back to the research document; ["Is it possible to make a flow tool on top of ThingsDB"](https://git.fhict.nl/I465040/cesbitportfolio/-/wikis/sprint-1#is-it-possible) that I made in the second sprint and I added these experiences to the document so that I could further clarify why a flow tool would be possible. I also explained how the calculations work so if you want to know more about that you can read the document as well.
+
+-------------
 ![image](uploads/d3d35e41832ed0514f2170c9e6307985/image.png) 
 
+-------------
+
 I also wanted the option of moving the components in the board, I thought that the components shouldn't  be static and that you should be able to move them around. I used a few libraries for this and I did a lot of research by means of youtube video's and google searches. Eventually I came across a library called beautifuldnd which gave the opportunity to easily swap the components with eachother and make it look very smooth. At first it led to a few problems and errors but eventually I was able to make it possible. Down below you can see how the functionality works. <br> (**Disclaimer!!:** The page down below has been updated and looks better than it did in this current sprint, this is because I added this GIF later on.)
+
+-------------
 ![ezgif.com-gif-maker__2_](uploads/f07457fbf7522faa33e1c89d9a15a40c/ezgif.com-gif-maker__2_.gif)
 
+-------------
 After this functionality I really wanted to put arrows between two components when clicking on them both, this wasn't as easy to do as I thought so this took me quite some time. After using a library called LeaderLine that didn't work the way I wanted to I came across a library called xarrows. This gave me the functionality that I wanted and now I could connect the two blocks together.
+-------------
 ![image](uploads/fbe1ec6b6d1c4e19f91e4483c936ee3b/image.png)
-
+-------------
 You can find all the code that I've made for this project right [here](https://github.com/cesbit/dragndrop)
+
+-------------
 
 ## Returning arrows
 After showcasing this to my stakeholders I got in a argument about returning arrows, are these needed? will these cause for problems? These questions were pretty important and I thought that these should be answered before I'd continue working on the prototype. So I set up a document to research if [returning arrows are necessary](uploads/a51dd840f835d02534857f47c30c04d0/Should_components_be_able_to_receive_a_returning_arrow.pdf) in the application that I will be making. This document is set up with my own research on what kind of functionalities could be needed, if these can be replaced with other ways, if it is user friendly and a multiple user tests to see what users think of this. The user tests really helped me and I thought they were very useful for the research, as they will be the people using it. I got some good feedback from it and it really sealed the research.
