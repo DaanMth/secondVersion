@@ -39,7 +39,15 @@ So I started designing the home page first, I wanted to make something abstract 
 
 -------------------------------------
 
-I also made the documentation page, here you can see all the components that can be used with the given information. First I made the components a bit bigger as seen below; <br/>
+Then I made the Flows page, I followed the design of Figma so it looks pretty alike. I did decide to not make the background see-through as this was pretty distracting and this could lead the eyes away from the functionality that it is meant for; 
+
+-------------------------------------
+
+![image](uploads/85fadfdbd4f4a2fe9e27e9432d361b39/image.png)
+
+-------------------------------------
+
+I also made the documentation page, here you can see all the components that can be used with the given information. As I didn't make this in Figma yet I didn't really have an idea on how I should make this but this wasn't really that big of a problem. First I made the components a bit bigger as seen below; <br/>
 
 -------------------------------------
 
