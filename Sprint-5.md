@@ -23,4 +23,6 @@ For my own input I came up with a idea when I was making the profile page, as I 
 ![image](uploads/e5889e9afcad9763b5b818b2375f6a96/image.png)
 
 ## Additions to the prototype
-When I was done designing in 
+When I was done designing in I showcased it to my stakeholders at the company, they were really happy with the outcome and they were very happy that I made everything so detailed. This way when the final prototype wouldn't be finished at the end of the internship they would have a very fine idea on how things should work. They found it very cool that I am so creative and they were very surprised with how I made some specific choices. Now that I still had some time we had a chat with what I should do now, I had the idea in mind that I could make a few more pages on the prototype such as the pages that are shown in the header and a home page, they thought this was a good idea and thought that I could finish this with the time still given in the sprint. 
+So I started designing the home page first, I wanted to make something abstract but that still had something to do with ThingsFlow. So I came up with the idea to make spikes, as if the application is made on the back of the hedgehog that is the logo of ThingsDB and ThingsFlow;
+![image](uploads/2351c0ec47fb7f6ff8051e06737ae404/image.png) 
