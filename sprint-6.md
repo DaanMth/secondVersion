@@ -45,6 +45,7 @@ I also made the functionalities that you can remove the component inside the flo
 
 ---------------------- 
 
-
+![ff056b2b3d9cbcd1dfb6a1c7ae95a0dc](uploads/7aec384556563bfe6a6a1a3f813ff907/ff056b2b3d9cbcd1dfb6a1c7ae95a0dc.gif)
+![f054032b48c9f64440833e9d1ae634cd](uploads/0f16b83c6452110d20f89411db79f667/f054032b48c9f64440833e9d1ae634cd.gif)
 
 ---------------------- 
