@@ -11,6 +11,8 @@ With all these in mind I created my first design of this sprint which looked as 
 
 ## Functionalities the stakeholders wanted to see
 As mentioned earlier there were a few functionalities that the stakeholders wanted to see in the design, as they didn't know if it was still possible in the time that I had in this internship. The things that they found important was; 
-*
-*
-*
+* How you would see, use and configure the error handling
+* How the errors would be handled inside the flow, and with what kind of ways
+* How configuration with other applications, such as DutyCalls or Mail, would look like
+* How the switch cases would work
+* Some own input
