@@ -1,2 +1,8 @@
 ## Before the sprint
 When setting up this sprint we sat together again as we do every sprint, we reviewed the last sprint and now we needed to find out what we wanted to do for the upcoming sprint. The three of us had the idea that I had come pretty far with the functionalities in the prototype but there were still a few functionalities that they wanted to know how it would look. I offered the idea to start designing a complete functional design in Figma, as they found it more important how it would look rather than how it would function I thought this was a good idea. They agreed with this and gave me a few functionalities that they would really like to see in this design and this gave me a few directives which I could hold on to while making the design in Figma. I chose to make the design in Figma as I had made designs for this project earlier on in Figma and I was pretty comfortable with this already, and it is just a very easy platform to make designs and make them 'talk' with eachother.
+
+## Start of a new design
+When I began I wanted to make the design that I had a bit more new, As I found that the old design was a bit old and boring I wanted to give it a more sleek design, a few things that I wanted to change was the sidebar, the header and the components itself.
+I wanted to change the sidebar as it looked a bit random and it wasn't as slick as I wanted.
+I also wanted to change the header as it took much space which wasn't needed, it created a lot of white space.
+And lastly I wanted to change the design of the components as I had made a few components in my prototype already these could be used already but I also wanted to change the error handling.
