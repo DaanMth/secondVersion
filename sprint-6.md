@@ -37,8 +37,14 @@ But now it still had to go somewhere, it should show on the list page. So from t
 
 ---------------------- 
 
-
+![d53bf59fa59710bb1345ec807c40c959](uploads/7e9da9bb059c4280aa822e9a28d31775/d53bf59fa59710bb1345ec807c40c959.gif)
 
 ---------------------- 
 
 I also made the functionalities that you can remove the component inside the flow, as I had been refreshing to remove them every time I thought it was time to finally make a button for this. I also made it possible to remove saved flows out of the list, I chose to make a modal when pressing on the cross first as I found it important that you don't press on remove by accident and this causing everything to be gone.
+
+---------------------- 
+
+
+
+---------------------- 
