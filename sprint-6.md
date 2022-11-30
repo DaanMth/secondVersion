@@ -25,3 +25,20 @@ I also made a new icon you can press to see the logging of the flow, when pressi
 ![image](uploads/f2afa298cbbc78dfc91ca2ee86eafad2/image.png)
 
 ## Making the functionalities in my prototype
+The first thing that I wanted to make was the the option to save flows as a list, this was the most logic thing to start with in my eyes. So I started making the code in the backend that saves the functionality and the specific information that you have given inside of the component so that that you don't have to fill this in again. So when pressing the button 'save to list' it went to the back-end with a specific name you gave to it.
+
+----------------------
+
+![c54ea600c7a94ebcf484cff94ad94b41](uploads/5217e015c304172876f23ce89fa26504/c54ea600c7a94ebcf484cff94ad94b41.gif)
+
+---------------------- 
+
+But now it still had to go somewhere, it should show on the list page. So from the backend it should retrieve the name and also the components that are inside it, because you also need to be able to view the flow. 
+
+---------------------- 
+
+
+
+---------------------- 
+
+I also made the functionalities that you can remove the component inside the flow, as I had been refreshing to remove them every time I thought it was time to finally make a button for this. I also made it possible to remove saved flows out of the list, I chose to make a modal when pressing on the cross first as I found it important that you don't press on remove by accident and this causing everything to be gone.
