@@ -30,6 +30,6 @@ So I started designing the home page first, I wanted to make something abstract 
 
 I also made the documentation page, here you can see all the components that can be used with the given information. First I made the components a bit bigger as seen below; <br/>
 <img src="uploads/b7bef2643d7b822f788d7384f9f20393/image.png"  width="400" height="auto">
-<img src="uploads/97545eb76124c0a96c7ac8d3e3be907a/image.png"  width="400" height="auto">
+<img src="uploads/97545eb76124c0a96c7ac8d3e3be907a/image.png"  width="400" height="auto"> <br/>
 I didnt really liked how it looked so I decided to do some user tests to see what people found of this. I gave them the two options given up above with the additional questions which one they liked and what they would change. I got some good feedback that there was a lot of white space and that I should make them smaller. After all the user tests that I did I came up with this design; 
 ![image](uploads/9dd78cb34566befd90bb654be37047a4/image.png)
