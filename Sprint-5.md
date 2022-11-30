@@ -7,4 +7,4 @@ I wanted to change the sidebar as it looked a bit random and it wasn't as slick 
 I also wanted to change the header as it took much space which wasn't needed, it created a lot of white space.
 And lastly I wanted to change the design of the components as I had made a few components in my prototype already these could be used already but I also wanted to change the error handling.
 With all these in mind I created my first design of this sprint which looked as the following; 
-![image](uploads/89056aca671e9a0b6798cb0b76f1ee5f/image.png)
+![image](uploads/562429b44df27df7377fd6cf1b9f1946/image.png)
