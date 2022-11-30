@@ -24,4 +24,4 @@ I also made a new icon you can press to see the logging of the flow, when pressi
 
 ![image](uploads/f2afa298cbbc78dfc91ca2ee86eafad2/image.png)
 
----------------------
+## Making the functionalities in my prototype
