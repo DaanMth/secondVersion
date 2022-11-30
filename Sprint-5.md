@@ -9,4 +9,4 @@ And lastly I wanted to change the design of the components as I had made a few c
 With all these in mind I created my first design of this sprint which looked as the following; 
 ![image](uploads/562429b44df27df7377fd6cf1b9f1946/image.png)
 
-## Functionalities they wanted designed
+## Functionalities the stakeholders wanted to see
