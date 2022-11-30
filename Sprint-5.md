@@ -20,6 +20,7 @@ As mentioned earlier there were a few functionalities that the stakeholders want
 You can find the whole design and the things that I made here: [figma design](https://www.figma.com/proto/RIRckga4ygXjIpYMYyj278/ThingsFlow?node-id=425%3A3202&scaling=scale-down&page-id=0%3A1&starting-point-node-id=425%3A3202&show-proto-sidebar=1)
 
 For my own input I came up with a idea when I was making the profile page, as I was getting some inspiration from other profile pages I saw a lot of pages with friends. Then I came up with the idea that Thingsflow could have 'friends' with whom you can share your flows with or maybe even work together on a flow in that way. When asking feedback on this idea they really thoroughly liked this idea, but Jeroen still didn't really know how they would implement this idea yet so they wanted to keep it in mind for later updates. When I showed my design to Erik he told me that the naming 'friends' wasn't really a good way of putting it as this will mostly be used inside companies and then it wouldn't make sense calling it a friend and more something like "link" or "connection" as it is more formal. 
+![image](uploads/e5889e9afcad9763b5b818b2375f6a96/image.png)
 
 ## Additions to the prototype
 When I was done designing in 
