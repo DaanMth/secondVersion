@@ -19,3 +19,9 @@ Another thing that they were missing were the error logs, at first I had made a 
 ---------------------
 
 I also made a new icon you can press to see the logging of the flow, when pressing on it you get to see the page where the logging of the flow is shown. Here you can see information about the flow when it has ran such as time that it took, when it ran, and some specific details. You can try it out here; [Logging](https://www.figma.com/proto/RIRckga4ygXjIpYMYyj278/ThingsFlow?node-id=610%3A3079&scaling=scale-down&page-id=0%3A1&starting-point-node-id=425%3A3202&show-proto-sidebar=1)
+
+---------------------
+
+![image](uploads/f2afa298cbbc78dfc91ca2ee86eafad2/image.png)
+
+---------------------
