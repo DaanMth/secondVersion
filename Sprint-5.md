@@ -17,4 +17,4 @@ As mentioned earlier there were a few functionalities that the stakeholders want
 * How the switch cases would work
 * Maybe some own input
 
-You can find the whole design and the things that I made here: 
+You can find the whole design and the things that I made here: ![figma design](https://www.figma.com/proto/RIRckga4ygXjIpYMYyj278/ThingsFlow?node-id=425%3A3202&scaling=scale-down&page-id=0%3A1&starting-point-node-id=425%3A3202&show-proto-sidebar=1)
