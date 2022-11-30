@@ -15,4 +15,6 @@ As mentioned earlier there were a few functionalities that the stakeholders want
 * How the errors would be handled inside the flow, and with what kind of ways
 * How configuration with other applications, such as DutyCalls or Mail, would look like
 * How the switch cases would work
-* Some own input
+* Maybe some own input
+
+You can find the whole design and the things that I made here: 
