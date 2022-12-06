@@ -55,6 +55,22 @@ After finishing the save and view functionality I wanted to make the mail compon
 
 ![e7be70041073fc7c446985c858857dba](uploads/d01dd67646de9c519d68c6282735ec76/e7be70041073fc7c446985c858857dba.gif)
 
+##Error when ran incorrectly
+I also wanted to make a error pop-up when a flow has been wrongly ran. I wanted to do this so it is better to understand for users what they are doing and thus making it more user friendly. When having to little components in the board or missing a beginning, middle or end component you will get a error message that pops up telling you exactly that;
+
+-----------------------
+
+![e16dae73357c82977967895e711a49ea](uploads/f1fe04c9aed644b4f0f4e421f228c0e7/e16dae73357c82977967895e711a49ea.gif)
+
+-----------------------
+
+I had a few different designs for this as the first one wasn't that much of an error pop up for me, then I made the second one which was a little too much and with mixing the two together I made the one that i ended up on;
+
+-----------------------
+![afbeelding](uploads/86923c2615ab16a960f173b0bf926111/afbeelding.png)
+![afbeelding-1](uploads/562ab5eb418191ab2f7c5eaef0c948ac/afbeelding-1.png)
+![afbeelding](uploads/ed71925ef3ceaaf00dc00923267c5a88/afbeelding.png)
+
 ## Minor design changes
 After I finished these functionalities I wanted to make some changes in my design, as I still missed a few things that I had designed in my Figma design in my prototype I wanted to add these first. The first thing that came to mind were the buttons, as my stakeholder mentioned why I made completely different buttons in my prototype earlier in a retrospective. So I began designing pictures and forming the buttons so that it looked more like the design that I had in Figma. <br/>
 As seen in the image below I also made a minor change to the sidebar, I made this change because I wanted it to be more structured, and by putting the diffirent types of components in a sort of 'box' I thought it would be more readable for users to know which component is which.
