@@ -33,7 +33,7 @@ The first thing that I wanted to make was the the option to save flows as a list
 
 ---------------------- 
 
-But now it still had to go somewhere, it should show on the list page. So from the backend it should retrieve the name and also the components that are inside it, because you also need to be able to view the flow. 
+But now it still had to go somewhere, it should show on the list page. So from the backend it should retrieve the name and also the components that are inside it, because you also need to be able to view the flow. I managed this by having a idea in the back of my mind on how this functionality should work and formatting it so that it would work the right way, there were a few errors and bugs while making it but I managed to make the functionality as shown down below; 
 
 ---------------------- 
 
