@@ -55,8 +55,6 @@ After finishing the save and view functionality I wanted to make the mail compon
 
 ![e7be70041073fc7c446985c858857dba](uploads/d01dd67646de9c519d68c6282735ec76/e7be70041073fc7c446985c858857dba.gif)
 
----------------------
-
 ## Minor design changes
 After I finished these functionalities I wanted to make some changes in my design, as I still missed a few things that I had designed in my Figma design in my prototype I wanted to add these first. The first thing that came to mind were the buttons, as my stakeholder mentioned why I made completely different buttons in my prototype earlier in a retrospective. So I began designing pictures and forming the buttons so that it looked more like the design that I had in Figma. <br/>
 As seen in the image below I also made a minor change to the sidebar, I made this change because I wanted it to be more structured, and by putting the diffirent types of components in a sort of 'box' I thought it would be more readable for users to know which component is which.
