@@ -48,4 +48,14 @@ I also made the functionalities that you can remove the component inside the flo
 ![ff056b2b3d9cbcd1dfb6a1c7ae95a0dc](uploads/7aec384556563bfe6a6a1a3f813ff907/ff056b2b3d9cbcd1dfb6a1c7ae95a0dc.gif)
 ![f054032b48c9f64440833e9d1ae634cd](uploads/0f16b83c6452110d20f89411db79f667/f054032b48c9f64440833e9d1ae634cd.gif)
 
----------------------- 
+## Minor design changes
+After I finished these functionalities I wanted to make some changes in my design, as I still missed a few things that I had designed in my Figma design in my prototype I wanted to add these first. The first thing that came to mind were the buttons, as my stakeholder mentioned why I made completely different buttons in my prototype earlier in a retrospective. So I began designing pictures and forming the buttons so that it looked more like the design that I had in Figma. <br/>
+As seen in the image below I also made a minor change to the sidebar, I made this change because I wanted it to be more structured, and by putting the diffirent types of components in a sort of 'box' I thought it would be more readable for users to know which component is which.
+
+-----------------------
+
+![image](uploads/12166227ef303fa431ce626b8fa1f2af/image.png)
+
+-----------------------
+
+
