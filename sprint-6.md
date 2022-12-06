@@ -70,6 +70,6 @@ But I didn't like how this looked, I wanted more dimension to it. So I made the 
 
 -------------------
 
-![image](uploads/b29428acab4703b51ecbce28e49f70ce/image.png)
+![image](uploads/72b42f7037c15c808bbb64dcd27ed0f4/image.png)
 
 ------------------
