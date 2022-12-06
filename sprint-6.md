@@ -55,7 +55,7 @@ After finishing the save and view functionality I wanted to make the mail compon
 
 ![e7be70041073fc7c446985c858857dba](uploads/d01dd67646de9c519d68c6282735ec76/e7be70041073fc7c446985c858857dba.gif)
 
-##Error when ran incorrectly
+## Error when ran incorrectly
 I also wanted to make a error pop-up when a flow has been wrongly ran. I wanted to do this so it is better to understand for users what they are doing and thus making it more user friendly. When having to little components in the board or missing a beginning, middle or end component you will get a error message that pops up telling you exactly that;
 
 -----------------------
