@@ -67,9 +67,14 @@ I also wanted to make a error pop-up when a flow has been wrongly ran. I wanted 
 I had a few different designs for this as the first one wasn't that much of an error pop up for me, then I made the second one which was a little too much and with mixing the two together I made the one that i ended up on;
 
 -----------------------
-![afbeelding](uploads/86923c2615ab16a960f173b0bf926111/afbeelding.png)
-![afbeelding-1](uploads/562ab5eb418191ab2f7c5eaef0c948ac/afbeelding-1.png)
-![afbeelding](uploads/ed71925ef3ceaaf00dc00923267c5a88/afbeelding.png)
+
+![error1](uploads/ed98e336cd199f18e53f095591e9bec1/error1.png)
+
+![error2](uploads/a58e5f642e8d64c7f39352c4213936c7/error2.png)
+
+![error3](uploads/603418061f905d808bd221bd2b6164db/error3.png)
+
+
 
 ## Minor design changes
 After I finished these functionalities I wanted to make some changes in my design, as I still missed a few things that I had designed in my Figma design in my prototype I wanted to add these first. The first thing that came to mind were the buttons, as my stakeholder mentioned why I made completely different buttons in my prototype earlier in a retrospective. So I began designing pictures and forming the buttons so that it looked more like the design that I had in Figma. <br/>
