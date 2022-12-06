@@ -51,6 +51,10 @@ I also made the functionalities that you can remove the component inside the flo
 ## Mail functionality
 After finishing the save and view functionality I wanted to make the mail component function, as this component had been there since the beginning but had the same functionality as the DutyCalls component. So I went to work in the backend and made the mail component functional, I had to look at several things such as that it can also work with the other components that I already have and I also had to look at things such as a smtp server and an app password that I had to use. I made the SMTP server and the app password with google as this was adviced to me by my stakeholders. Eventually I made the mail module work and I could use it to every mail that you'd like
 
+## Cleaning the code
+After I made all the functionalities I wanted to clean up my code, as it wasn't really sorted well and it was really messy. This made it very hard for me to get through the code and for example find specific functions on the main file. I ended up sorting the files in maps of modals, flows, documentation and board. This made my main page go from 1800 lines of code from 600. This made it much more readable and it was just more clean in general.  
+![image](uploads/b21ec64b2efd0e428f4eebc78ee68a58/image.png)
+
 ----------------------
 
 ![e7be70041073fc7c446985c858857dba](uploads/d01dd67646de9c519d68c6282735ec76/e7be70041073fc7c446985c858857dba.gif)
