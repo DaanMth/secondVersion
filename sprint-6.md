@@ -18,7 +18,7 @@ Another thing that they were missing were the error logs, at first I had made a 
 
 ---------------------
 
-I also made a new icon you can press to see the logging of the flow, when pressing on it you get to see the page where the logging of the flow is shown. Here you can see information about the flow when it has ran such as time that it took, when it ran, and some specific details. You can try it out here; [Logging](https://www.figma.com/proto/RIRckga4ygXjIpYMYyj278/ThingsFlow?node-id=610%3A3079&scaling=scale-down&page-id=0%3A1&starting-point-node-id=425%3A3202&show-proto-sidebar=1)
+I also made a new icon you can press to see the logging of the flow, when pressing on it you get to see the page where the logging of the flow is shown. Here you can see information about the flow when it has ran such as time that it took, when it ran, and some specific details. I decided on making a separate page for the logging as I had done some research on other logging pages and tinkered about a good design for this and ended up coming to the conlusion that a separate page is mostly used and in my eyes also the most uncluttered. You can try it out here; [Logging](https://www.figma.com/proto/RIRckga4ygXjIpYMYyj278/ThingsFlow?node-id=610%3A3079&scaling=scale-down&page-id=0%3A1&starting-point-node-id=425%3A3202&show-proto-sidebar=1)
 
 ---------------------
 
@@ -58,4 +58,18 @@ As seen in the image below I also made a minor change to the sidebar, I made thi
 
 -----------------------
 
+After that I wanted to upgrade the modals, I found them pretty boring and I wanted to add something to them so they weren't just plain and white. I first came up with the idea to give the title of the modal a kind of background, so it would stick out more and the modal wouldn't be as boring. But I came to the conclusion that it wasn't really possible in a modal and that it wouldn't look as nice as I had imagined. Then I came up with the idea to give the modal a background as a whole, as the logo of ThingsFlow is a hedgehog I wanted to stick with the spikes just as I had on my page background. It did need a minor design change as it had to be put on a white background so I made it grey on white in Figma and imported it in my prototype. At first I made it fully white as seen below; 
 
+--------------------
+
+![image](uploads/08b7e62b7a6e3241db5728f883e0e6be/image.png)
+
+--------------------
+
+But I didn't like how this looked, I wanted more dimension to it. So I made the front spikes a tad darker and the design ended up looking as follows; 
+
+-------------------
+
+![image](uploads/b29428acab4703b51ecbce28e49f70ce/image.png)
+
+------------------
