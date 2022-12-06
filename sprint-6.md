@@ -48,6 +48,15 @@ I also made the functionalities that you can remove the component inside the flo
 ![ff056b2b3d9cbcd1dfb6a1c7ae95a0dc](uploads/7aec384556563bfe6a6a1a3f813ff907/ff056b2b3d9cbcd1dfb6a1c7ae95a0dc.gif)
 ![f054032b48c9f64440833e9d1ae634cd](uploads/0f16b83c6452110d20f89411db79f667/f054032b48c9f64440833e9d1ae634cd.gif)
 
+## Mail functionality
+After finishing the save and view functionality I wanted to make the mail component function, as this component had been there since the beginning but had the same functionality as the DutyCalls component. So I went to work in the backend and made the mail component functional, I had to look at several things such as that it can also work with the other components that I already have and I also had to look at things such as a smtp server and an app password that I had to use. I made the SMTP server and the app password with google as this was adviced to me by my stakeholders. Eventually I made the mail module work and I could use it to every mail that you'd like
+
+----------------------
+
+![e7be70041073fc7c446985c858857dba](uploads/d01dd67646de9c519d68c6282735ec76/e7be70041073fc7c446985c858857dba.gif)
+
+---------------------
+
 ## Minor design changes
 After I finished these functionalities I wanted to make some changes in my design, as I still missed a few things that I had designed in my Figma design in my prototype I wanted to add these first. The first thing that came to mind were the buttons, as my stakeholder mentioned why I made completely different buttons in my prototype earlier in a retrospective. So I began designing pictures and forming the buttons so that it looked more like the design that I had in Figma. <br/>
 As seen in the image below I also made a minor change to the sidebar, I made this change because I wanted it to be more structured, and by putting the diffirent types of components in a sort of 'box' I thought it would be more readable for users to know which component is which.
