@@ -53,7 +53,10 @@ After finishing the save and view functionality I wanted to make the mail compon
 
 ## Cleaning the code
 After I made all the functionalities I wanted to clean up my code, as it wasn't really sorted well and it was really messy. This made it very hard for me to get through the code and for example find specific functions on the main file. I ended up sorting the files in maps of modals, flows, documentation and board. This made my main page go from 1800 lines of code from 600. This made it much more readable and it was just more clean in general.  
-![image](uploads/b21ec64b2efd0e428f4eebc78ee68a58/image.png)
+
+---------------------
+
+![image](uploads/8b972a7eedc3ec98b0ebaa3d4ca54b49/image.png)
 
 ----------------------
 
