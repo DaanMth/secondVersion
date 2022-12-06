@@ -75,7 +75,7 @@ I had a few different designs for this as the first one wasn't that much of an e
 ![error3](uploads/603418061f905d808bd221bd2b6164db/error3.png)
 
 ## Cleaning the code
-After I made all the functionalities I wanted to clean up my code, as it wasn't really sorted well and it was really messy. This made it very hard for me to get through the code and for example find specific functions on the main file. I ended up sorting the files in maps of modals, flows, documentation and board. This made my main page go from 1800 lines of code from 600. This made it much more readable and it was just more clean in general.  
+After I made all the functionalities I wanted to clean up my code, as it wasn't really sorted well and it was really messy. This made it very hard for me to get through the code and for example find specific functions on the main file. I ended up sorting the files in maps of modals, flows, documentation and board. This made my main page go from 1800 lines of code to 600. This made it much more readable and it was just more clean in general.  
 
 ---------------------
 
