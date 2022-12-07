@@ -14,7 +14,7 @@ Then I started with my [project plan](uploads/73b496acd3f468691ddc125976de4f1e/P
 
 ## Rivalry
 
-After that I wanted to research the 'rivals' and what their pro's and cons were. I made this choice because I thought it would be very smart for me to look at other applications first before starting as this could give me some inspiration and more insight. One of the biggest flow tools application is Dovetail, so I made a [research document](uploads/35294606cdb4707ce7b672106d3fad6b/Research_Document_Dovetail_ENG.docx) for this studying their ways and trying to figure out where their disadvantages layed.
+After that I wanted to research the 'rivals' and what their pro's and cons were. I made this choice because I thought it would be very smart for me to look at other applications first before starting as this could give me some inspiration and more insight. One of the biggest flow tools application is Dovetail, so I made a [research document](uploads/380b07f4351868c479765a97ce055546/Research_Document_Dovetail_ENG.pdf) for this studying their ways and trying to figure out where their disadvantages layed.
 
 ## Design time
 
@@ -28,3 +28,4 @@ At last I wanted to make some designs of how I wanted the flow tool to look, so 
 ## Retrospective
 When looking back at this sprint I had finished more than I had expected I'd finish, I was very happy with what I have made this sprint as I was pretty stressed I didn't know where to start and I'd end up not finishing anything. Luckily I got some really good help from my stakeholders giving me a starting point with the Q&A I did. I set my mind right and really did my best making something that I could be proud of. <br><br>
 When asking for feedback from the stakeholders they were very happy with the researches and prototypes that I had delivered, and they were very surprised that I had come so far in just two weeks. There wasn't really something yet that could be done differently as there hasn't gone much time over the project, and everything went pretty good. So for the feedforward we had concluded to keep it up, and to follow the work ethic that I had deliverd this sprint. 
+[Research_Document_Dovetail_ENG.pdf](uploads/3a704d913131503d661caf3cb3404ffd/Research_Document_Dovetail_ENG.pdf)
