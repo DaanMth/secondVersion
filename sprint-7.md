@@ -14,6 +14,6 @@ The next thing that I wanted fixed was the fact that the current value didn't sh
 
 ----------------------------
 
-![15c3846609dd15d12283e791c5ddd28a](uploads/284e2e177254c56138becdc7cfba8938/15c3846609dd15d12283e791c5ddd28a.gif)
+![a6fa5cf018733cabac910b9621d424d1](uploads/2c6534a28e2cbd246d81293498cb850e/a6fa5cf018733cabac910b9621d424d1.gif)
 
 ----------------------------
