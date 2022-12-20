@@ -10,3 +10,10 @@ The first bug that I fixed was one where I couldn't immediately put a component 
 
 ----------------------------
 
+The next thing that I wanted fixed was the fact that the current value didn't show up immediately, you first had to go out of the modal and go back in to see it. This happened because it was put inside of a UseState, and this only updates when the whole page gets rendered as a whole again. So this meant I needed to work around this to make it show up immediately. I did this by firing up another useState that is used as a decoy, I did this as my stakeholder gave me this tip a long time ago that this could work for some occassions. 
+
+----------------------------
+
+![15c3846609dd15d12283e791c5ddd28a](uploads/284e2e177254c56138becdc7cfba8938/15c3846609dd15d12283e791c5ddd28a.gif)
+
+----------------------------
