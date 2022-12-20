@@ -33,3 +33,11 @@ Then I noticed that when viewing a saved flow with a custom component that it do
 ![f86ade4538f52e91021cc50df2e3c2d4](uploads/8cc6c4a110a930c00bfadf4cd20da331/f86ade4538f52e91021cc50df2e3c2d4.gif)
 
 ----------------------------
+
+As I had fixed the fact that you could see the custom component in saved flows another bug had occured. Now I couldn't run the application anymore with custom components inside it and it only showed an error when running. After doing some research I had noticed that it didn't work because of the fact that I changed a few objects inside of the component to make the component visible in the saved flows. So after some changing here and there I made it work again. 
+
+-----------------------------
+
+![4afc3902d1de4b59e0f1626a1fc2ee2a](uploads/349367e1d5d3894108d45226625b94a9/4afc3902d1de4b59e0f1626a1fc2ee2a.gif)
+
+------------------------------
