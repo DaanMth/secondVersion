@@ -49,8 +49,6 @@ As I wanted to add some more to the design I noticed that the pages were a bit s
 
 ![2ca35d02ab556781a81707cb9249a238](uploads/54ccb55f423254a27cd2b068f04e233f/2ca35d02ab556781a81707cb9249a238.gif)
 
------------------------------
-
 ## Navigating through the board
 
 The last functionality that the stakeholders really would love to see was a way to navigate through the board when it would become too big to view on your screen. For this I made a research document designing different ways to make this functionality work and doing research on which one of these could work the best. I chose to do this research first as I wanted to know what the users would like the most on the application as it is most important to know what your users want. I had a vision in mind already which I often have but seeing other peoples perspectives was a really good way to know how it can look as well. You can read the research document [here](uploads/9c740cb65dc031492e0d400956d480f4/Navigate_Research.pdf)
