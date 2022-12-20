@@ -17,3 +17,19 @@ The next thing that I wanted fixed was the fact that the current value didn't sh
 ![a6fa5cf018733cabac910b9621d424d1](uploads/2c6534a28e2cbd246d81293498cb850e/a6fa5cf018733cabac910b9621d424d1.gif)
 
 ----------------------------
+
+Another big bug that was swill in the application was the fact that when you view a saved flow that it doesn't show the arrows that you had connected. This was caused because I only loaded the components that were on the board and I hadn't made a function yet that would generate the arrows that you also had connected to the components. So I started writing the function that saved the arrows to the backend as well and also the function that would load the arrows that you had connected.
+
+----------------------------
+
+![c37f7bff4f9df4191527c5627ffed1a9](uploads/dac6b6e6cbcd79e2107600bf1086c860/c37f7bff4f9df4191527c5627ffed1a9.gif)
+
+----------------------------
+
+Then I noticed that when viewing a saved flow with a custom component that it doesn't show that component but rather the components that are inside of it. This was caused because the function that I had originally written just loaded the functions that were inside of it rather than looking if it was a custom component. so I rewrote this function and this fixed the problem as a whole, this did cause for some extra bugs but those will be explained further below.
+
+----------------------------
+
+![f86ade4538f52e91021cc50df2e3c2d4](uploads/8cc6c4a110a930c00bfadf4cd20da331/f86ade4538f52e91021cc50df2e3c2d4.gif)
+
+----------------------------
