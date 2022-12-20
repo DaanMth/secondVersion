@@ -3,4 +3,10 @@ Before we started the sprint we sat down with my stakeholders to indicate what w
 
 ## Fixing bugs
 The first bug that I fixed was one where I couldn't immediately put a component inside of the board, this caused me to recompile the whole application first before I could put a component inside of the board. I fixed this by changing the way I render the sidebar, first it rendered it every milisecond which caused it to give this priority. So I changed it that it only gets the sidebar the first time, this fixed the problem and I finally didn't have to recompile the application anymore.
+
+----------------------------
+
 ![15c3846609dd15d12283e791c5ddd28a](uploads/767258b351a1a988cfd0bfeb63be2c6b/15c3846609dd15d12283e791c5ddd28a.gif)
+
+----------------------------
+
