@@ -41,7 +41,7 @@ As I had fixed the fact that you could see the custom component in saved flows a
 ![4afc3902d1de4b59e0f1626a1fc2ee2a](uploads/349367e1d5d3894108d45226625b94a9/4afc3902d1de4b59e0f1626a1fc2ee2a.gif)
 
 ## Finishing touches
-As I wanted to add some more to the design I noticed that the pages were a bit static, when going from one to another it didn't flow well and the homepage was still kind of boring in my eyes. So I made the decision to add animations to the webpage. The homepage needed some more spice when first starting it and when going to other pages it should have that little detail that satisfies the user. So I ended up animating the whole front page so that the background, title and button comes up from underneath in a satisfying way (In the gif it doesn't look as smooth as it has less FPS)
+As I wanted to add some more to the design I noticed that the pages were a bit static, when going from one to another it didn't flow well and the homepage was still kind of boring in my eyes. So I made the decision to add animations to the webpage. The homepage needed some more spice when first starting it and when going to other pages it should have that little detail that satisfies the user. So I ended up animating the whole front page so that the background, title and button comes up from underneath in a satisfying way **(In the gif it doesn't look as smooth as it has less FPS)**
 
 -----------------------------
 
