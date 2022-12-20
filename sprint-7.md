@@ -18,7 +18,7 @@ The next thing that I wanted fixed was the fact that the current value didn't sh
 
 ----------------------------
 
-Another big bug that was swill in the application was the fact that when you view a saved flow that it doesn't show the arrows that you had connected. This was caused because I only loaded the components that were on the board and I hadn't made a function yet that would generate the arrows that you also had connected to the components. So I started writing the function that saved the arrows to the backend as well and also the function that would load the arrows that you had connected.
+Another big bug that was still in the application was the fact that when you view a saved flow that it doesn't show the arrows that you had connected. This was caused because I only loaded the components that were on the board and I hadn't made a function yet that would generate the arrows that you also had connected to the components. So I started writing the function that saved the arrows to the backend as well and also the function that would load the arrows that you had connected.
 
 ----------------------------
 
