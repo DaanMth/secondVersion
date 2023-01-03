@@ -6,13 +6,11 @@ To make a first proof of concept for the Flow tool I used WebStorm to make a Rea
 Building on the designs I was able to create a first working version of the Flow tool, you can read about the functionalities below.
 
 Feedback from stakeholders:
-- first proof of concept (prototype) look feasable
-- Sidbebar might not be large enough to hold all (feauters)
+- first proof of concept/prototype look feasable
+- Sidbebar might not be large enough to hold all features
 
 Based on the feedback an itteration was made with the sidebar (tools) below the main board. 
 This design comfirmed the UX research I did earlier which stated that a sidebar is better as Laws such as the Aesthetic-Usability effect, the Jakob's law and the law of similarity proved that the sidebar would be much more user friendly.
-
-This sprint I gave myself time to make a prototype, I used WebStorm to make a React front-end. In which I started designing my flow tool based on the Figma designs that I've made, this was very useful as I already knew where things were supposed to be so this made me work a lot more goal oriented. When I was done with my design I first asked feedback from my stakeholder. They were very pleased with how everything looked. But they were kind of debating if they wanted to have the sidebar underneath the board ( as you can see on the second picture ), as you would probably need a lot of room for the flow. But as I did some research on UX design I could say that this wasn't really the best way of a flow tool to look and they agreed to go further with the sidebar as it is. 
 
 -------------
 ![image](uploads/4837e45ab1dac01e95221c2eb2bed7c4/image.png)
