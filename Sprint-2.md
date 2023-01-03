@@ -7,6 +7,7 @@ Building on the designs I was able to create a first working version of the Flow
 Feedback from stakeholders:
 - first proof of concept (prototype) look feasable
 - Sidbebar might not be large enough to hold all (feauters)
+
 Based on the feedback an itteration was made with the sidebar (tools) below the main board. 
 This design comfirmed the UX research I did earlier which stated that a sidebar is better as Laws such as the Aesthetic-Usability effect, the Jakob's law and the law of similarity proved that the sidebar would be much more user friendly.
 
