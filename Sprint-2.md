@@ -4,6 +4,7 @@ This sprint the goal was to test my own viability and feasability of the flow to
 ## Baby steps of the Flow Tool
 To make a first proof of concept for the Flow tool I used WebStorm to make a React fron-end. (see picture below). 
 Building on the designs I was able to create a first working version of the Flow tool, you can read about the functionalities below.
+
 Feedback from stakeholders:
 - first proof of concept (prototype) look feasable
 - Sidbebar might not be large enough to hold all (feauters)
